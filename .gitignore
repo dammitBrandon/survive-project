@@ -1,0 +1,9 @@
+# Dependency Directory
+# https://docs.npmjs.com/misc/faq#should-i-check-my-node-modules-folder-into-git
+node_modules
+
+# .DS_STORE file
+*.DS_STORE
+
+# For intellij users
+.idea
